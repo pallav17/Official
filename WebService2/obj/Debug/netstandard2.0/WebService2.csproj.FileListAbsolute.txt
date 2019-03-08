@@ -1,0 +1,9 @@
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Debug\netstandard2.0\WebService2.csprojAssemblyReference.cache
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Debug\netstandard2.0\WebService2.csproj.CoreCompileInputs.cache
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Debug\netstandard2.0\WebService2.AssemblyInfoInputs.cache
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Debug\netstandard2.0\WebService2.AssemblyInfo.cs
+C:\Users\SHAHPLL\source\repos\Official\WebService2\bin\Debug\netstandard2.0\WebService2.deps.json
+C:\Users\SHAHPLL\source\repos\Official\WebService2\bin\Debug\netstandard2.0\WebService2.dll
+C:\Users\SHAHPLL\source\repos\Official\WebService2\bin\Debug\netstandard2.0\WebService2.pdb
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Debug\netstandard2.0\WebService2.dll
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Debug\netstandard2.0\WebService2.pdb
