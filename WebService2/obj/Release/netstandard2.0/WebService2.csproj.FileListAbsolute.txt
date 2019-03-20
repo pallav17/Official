@@ -6,3 +6,4 @@ C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Release\netstandard2.0\We
 C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Release\netstandard2.0\WebService2.AssemblyInfo.cs
 C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Release\netstandard2.0\WebService2.dll
 C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Release\netstandard2.0\WebService2.pdb
+C:\Users\SHAHPLL\source\repos\Official\WebService2\obj\Release\netstandard2.0\WebService2.csprojAssemblyReference.cache
